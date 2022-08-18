@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="http://in28minutes.com/courses"
+                          xsi:schemaLocation="http://in28minutes.com/courses course_details.xsd"
+                          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <CourseDetails>
+        <id>777</id>
+        <name>Florist</name>
+        <description>You will learn about flowers</description>
+    </CourseDetails>
+
+</GetCourseDetailsResponse>

@@ -1,0 +1,26 @@
+server:
+  port:
+    8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/jwt_database?useSSL = false
+    username: root
+    password:
+  jpa:
+    database-platform:
+      org.hibernate.dialect.MySQL5InnoDBDialect
+    hibernate:
+      ddl-auto: update
+
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql:
+          false
+
+
+
+
+
+

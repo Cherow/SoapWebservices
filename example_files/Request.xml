@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsRequest xmlns="http://in28minutes.com/courses">
+    <!--xmlns="http://techche.com/courses">
+    xsi:schemaLocation="http://techche.com/courses"
+    xmlns:xsi="http://techche.com/courses"-->
+
+    <id>3488</id>
+
+</GetCourseDetailsRequest>
+
